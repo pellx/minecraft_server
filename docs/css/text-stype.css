@@ -1,0 +1,25 @@
+.little{
+    color: rgb(70, 70, 70);
+}
+
+.through{
+    color: rgba(128, 128, 128, 0.75);
+    text-decoration: line-through;
+}
+
+.memory{
+    color:rgb(95, 95, 247);
+    text-decoration:none;
+}
+
+.achievement{
+    color:rgb(1, 160, 1);
+    text-decoration:none;
+}
+
+/*
+<a class="little"></a>
+<a class="through"></a>
+<a class="memory"></a>
+<a class="achievement"></a>
+*/
