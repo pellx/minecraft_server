@@ -7,6 +7,11 @@
     text-decoration: line-through;
 }
 
+.link_show{
+    color:cornflowerblue;
+    text-decoration: underline;
+}
+
 .memory{
     color:rgb(95, 95, 247);
     text-decoration:none;
@@ -20,6 +25,7 @@
 /*
 <a class="little"></a>
 <a class="through"></a>
+<a class="link_show"></a>
 <a class="memory"></a>
 <a class="achievement"></a>
 */
